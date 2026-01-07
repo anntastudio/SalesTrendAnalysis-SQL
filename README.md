@@ -1,6 +1,6 @@
 # SalesTrendAnalysis-SQL
 ### Project background
-The company needed better insights from sales data to understand overall trends, customer spends, and high performing products.
+A retail store needed better insights from sales data to understand overall trends, customer spends, and high performing products.
 
 ### Objectives
 The goal was to analyse sales data, stored in the data warehouse (Microsoft SQL Server), to answer three key questions:
