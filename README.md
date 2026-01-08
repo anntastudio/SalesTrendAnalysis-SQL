@@ -1,4 +1,4 @@
-# SalesTrendAnalysis-SQL
+# RetailSalesTrendAnalysis-SQL
 ### Project background
 A retail store needed better insights from sales data to understand overall trends, customer spends, and high performing products.
 
