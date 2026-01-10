@@ -11,6 +11,9 @@ The goal was to analyse sales data, stored in the data warehouse (Microsoft SQL 
 ### Methodology
 * Data source: local data warehouse
 * Tools used: Azure Data Studio, SQL Notebook, MS SQL to analyse 60,000+ transactions from 2010-2013, creating queries to track monthly sales performance, classify customers into segments (New, Regular, VIP), and calculate product category contributions using aggregate functions, CTE and window functions.
+* Data model
+<img width="1447" height="1017" alt="image" src="https://github.com/user-attachments/assets/55473808-9b1e-4a9b-bdf4-4a2892b10fb8" />
+
   
 ### Insights
 *All charts generated in SQL notebook*
